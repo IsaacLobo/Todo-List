@@ -1,3 +1,7 @@
+# Tutorial Mozilla
+This project is from tutorial from mozilla how to create a todo list with react.
+https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
